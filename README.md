@@ -26,7 +26,7 @@ CASE8/CASE18: F+M
 CASE9/CASE:19: F+M+K
 
 ==
-PLC PCA-based Cable Anomaly Detector License
+PLC PCA-based Cable Anomaly Detector License==
 ==
 Open Source License
 
