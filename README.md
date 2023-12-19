@@ -14,9 +14,10 @@ PCA_apply.m: MATLAB script to apply PCA (obtain training/testing error without a
 PCA_threshold_new.m: MATLAB script to apply PCA for anomaly detection\
 PCA_clustering_NE.m: MATLAB script for clustering as pre-processing for non-energized condition\
 PCA_clustering_E.m: MATLAB script for clustering as pre-processing for energized condition\
-AD_single_load.m: MATLAB script for anomaly detection assuming the load condition is known\
+AD_single_load.m: MATLAB script for anomaly detection assuming the load condition is known
 
-Description of cases: \
+Description of cases: 
+
 CASE2/CASE12: power bar unloaded\
 CASE3/CASE13: water kettle (K) only\
 CASE4/CASE14: computer monitor (M) only\
@@ -24,7 +25,7 @@ CASE5/CASE15: K+M\
 CASE6/CASE16: electric fan (F) only\
 CASE7/CASE17: F+K\
 CASE8/CASE18: F+M\
-CASE9/CASE:19: F+M+K\
+CASE9/CASE:19: F+M+K
 
 ==
 PLC PCA-based Cable Anomaly Detector License==
