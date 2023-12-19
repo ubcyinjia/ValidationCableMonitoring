@@ -25,9 +25,9 @@ CASE7/CASE17: F+K
 CASE8/CASE18: F+M
 CASE9/CASE:19: F+M+K
 
-==============================================================================
+==
 PLC PCA-based Cable Anomaly Detector License
-==============================================================================
+==
 Open Source License
 
 Copyright (c) 2023 University of British Columbia.
