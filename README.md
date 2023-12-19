@@ -1,7 +1,7 @@
 # ValidationCableMonitoring
 a PCA-based cable anomaly detection solution developed using measurement data to validate the idea of cable health monitoring using power line communications signals.
 
-Description of files:\
+Description of files:
 
 New_Cable/CABLE1.S2P: S parameter measurement of 30-meter cable A as the device under test (DUT) \
 New_Cable/CABLE2.S2P: S parameter measurement of 30-meter cable B as the DUT\
