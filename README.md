@@ -2,7 +2,7 @@
 a PCA-based cable anomaly detection solution developed using measurement data to validate the idea of cable health monitoring using power line communications signals.
 
 Description of files:
-New_Cable/CABLE1.S2P: S parameter measurement of 30-meter cable A as the device under test (DUT) 
+New_Cable/CABLE1.S2P: S parameter measurement of 30-meter cable A as the device under test (DUT) \\
 New_Cable/CABLE2.S2P: S parameter measurement of 30-meter cable B as the DUT
 Test5_Intact: S parameter measurement of PLC network under intact conditions (PLC network: VNA Port1 - Cable A - Power bar with loads- Cable B - VNA Port 2)
 Test#a_D#b: S parameter measurement of PLC network under degraded conditions (D1-D7 corresponding to degradation stage 1-7 described in the paper)
