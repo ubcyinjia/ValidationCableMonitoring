@@ -4,7 +4,7 @@ This depository is the source code for paper:
 
 Validation of Machine Learning Aided and Power Line Communication Based Cable Monitoring Using Measurement Data
 
-coauthored by Yinjia Huo, Kevin Wang, Lutz Lampe and Victor C.M. Leung.
+co-authored by Yinjia Huo, Kevin Wang, Lutz Lampe and Victor C.M. Leung.
 
 This project develops a PCA-based cable anomaly detection solution using measurement data. The purpose of this project is to validate the idea of cable health monitoring using power line communications signals and machine learning techniques.
 
